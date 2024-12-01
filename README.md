@@ -40,7 +40,7 @@ Search by store and codename
 ./umu-search -s "egs" -c "heather"
 ```
 Search by umu_id and store. Output only title if one match is found
-```
+```bash
 # Ys Origin (GOG)
 ./umu-search -u "umu-207350" -s "gog" --print="title"
 ```
