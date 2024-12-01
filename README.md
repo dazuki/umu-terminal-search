@@ -41,7 +41,8 @@ Search by store and codename
 ```
 Search by umu_id and store. Output only title if one match is found
 ```
-./umu-search -u "umu-590380" -s "egs" --print="title"
+# Ys Origin (GOG)
+./umu-search -u "umu-207350" -s "gog" --print="title"
 ```
 
 ## UMU-Database
