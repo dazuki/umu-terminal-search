@@ -2,7 +2,7 @@
 
 **umu-terminal-search** is a Python script for searching the UMU database by various fields and displaying results in the terminal. It supports multiple search criteria and customizable output.
 
-### [Download as .tar.gz](https://github.com/dazuki/umu-terminal-search/raw/refs/heads/main/umu-search.tar.gz)
+### [Download here](https://github.com/dazuki/umu-terminal-search/releases)
 
 ## Features
 - Search by **TITLE**, **STORE**, **CODENAME**, or **UMU_ID**.
